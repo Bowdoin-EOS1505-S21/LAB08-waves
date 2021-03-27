@@ -1,0 +1,11 @@
+# Ignore intermediate auto-saved versions
+.ipynb_checkpoints/
+
+# Ignore emacs backup files
+*~
+
+# Ignore gmt history file
+gmt.history
+*.pdf
+trackline.xy
+
